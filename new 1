@@ -1,0 +1,4 @@
+
+
+gestion cycle de vie de projet : cree instances et les detruit. 
+Permet d'injecter ces meme objets entre eux.
